@@ -1,0 +1,5 @@
+client/blogapp/.env
+server/.env
+
+client/blogapp/node_modules
+server/node_modules
